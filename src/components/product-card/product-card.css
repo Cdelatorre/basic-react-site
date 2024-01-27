@@ -1,0 +1,5 @@
+.card-text {
+  max-height: 100px;
+  text-wrap: wrap;
+  overflow: hidden;
+}
